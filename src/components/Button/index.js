@@ -1,7 +1,7 @@
-import myAlert from "~/myAlert"
+import myAlert from "~/myAlert";
 
 function Button() {
-    return(
+    return (
         <div>
             <button onClick={myAlert}>Click me!</button>
         </div>
