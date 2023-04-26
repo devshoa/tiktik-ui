@@ -1,4 +1,4 @@
-import Header from "./Header";
+import Header from "~/components/Layout/components/Header";
 import Sidebar from "./Sidebar";
 
 // do content thay đổi thì chúng ta phải nhận từ ngoài vào dưới dạng chidlren
